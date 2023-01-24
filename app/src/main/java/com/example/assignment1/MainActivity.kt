@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val spinnerTextView:TextView=findViewById(R.id.spinnerText)
         val spinner:Spinner=findViewById(R.id.spinner)
         val edAddItem:EditText=findViewById(R.id.edAddItem)
-        val spinnerOptions= arrayOf("Ali","Jamal")
+        val spinnerOptions= arrayOf("Abdullah","Ali")
         var spinnerOptionIndex:Int=0
 
 //        print("Test")
